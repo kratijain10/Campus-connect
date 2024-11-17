@@ -91,9 +91,11 @@ Final-Year-Project-ETC-2025/
 ```  
 
 ## Contribution  
-Feel free to fork the repository and submit pull requests. Contributions are always welcome!  
+Feel free to fork the repository and submit pull requests. Contributions are always welcome!    
 
-## License  
-This project is licensed under the MIT License.  
+## Images
+![image](https://github.com/user-attachments/assets/8003fb2f-97d0-40de-9402-078444a3bd93)
+![image](https://github.com/user-attachments/assets/b5997acf-720f-49b2-a79a-a96c99581134)
+
 
 ---  
